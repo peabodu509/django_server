@@ -25,7 +25,7 @@ SECRET_KEY = 'ujeup9*s+^8e$-tv6$&cr9y@85a)$j0j7z^f2edwhh_$uv2909'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://github.com/peabodu509/django_server.git']
 
 
 # Application definition
